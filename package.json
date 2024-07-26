@@ -2,20 +2,20 @@
   "name": "goit-js-hw-08j",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SimonaIlona.github.io/goit-js-hw-08",
+  "homepage": "https://SimonaIlona.github.io/goit-js-hw-08j",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08j/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SimonaIlona/goit-js-hw-08.git"
+    "url": "git+https://github.com/SimonaIlona/goit-js-hw-08j.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SimonaIlona/goit-js-hw-08/issues"
+    "url": "https://github.com/SimonaIlona/goit-js-hw-08j/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.23.0",
